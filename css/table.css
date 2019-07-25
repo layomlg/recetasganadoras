@@ -1,0 +1,88 @@
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td,
+#customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center !important;
+}
+
+#customers tr:nth-child(even) {
+  background-color: #f2f2f2;
+  text-align: center !important;
+}
+
+#customers tr:hover {
+  background-color: #ddd;
+  text-align: center !important;
+}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #D92D2D;
+  color: white;
+  text-align: center !important;
+  font-weight: 100;
+}
+
+.graytable {
+  background-color: #002EA6 !important;
+  text-align: center !important;
+}
+
+.total {
+  background-color: #b6b6b6;
+  color: white;
+}
+
+.selecciontable {
+  background-color: #38456D;
+  color: white !important;
+  font-weight: 00;
+  font-size: 14px;
+}
+
+
+
+
+
+
+
+
+#resumen {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#resumen td,
+#resumen th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center !important;
+}
+
+#resumen tr:nth-child(even) {
+  background-color: transparent;
+  text-align: center !important;
+}
+
+#resumen tr:hover {
+  background-color: transparent;
+  text-align: center !important;
+}
+
+#resumen th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: transparent;
+  text-align: center !important;
+  font-weight: 100;
+}
