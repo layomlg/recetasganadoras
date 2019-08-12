@@ -12674,3 +12674,20 @@ a:focus {
   -ms-transform: translateY(-50%) translateX(-50%);
   transform: translateY(-50%) translateX(-100%);
 }
+#mt-header.style3 .mt-bottom-bar {
+    padding: 15px 0;
+}
+.mt-bottom-bar .mt-logo img {
+    max-width: 200px;
+}
+@media (max-width:992px) {
+  .mt-bottom-bar .mt-icon-list {
+      margin-top: 10px;
+  }
+} 
+
+@media (min-width:992px) {
+  #nav > ul > li {
+      padding-top: 12px;
+  }
+}
